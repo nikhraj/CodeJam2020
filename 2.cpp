@@ -2,6 +2,7 @@
 using namespace std;
 void solve()
 {
+        int test=1;
         string a;
         cin >> a;
         vector<int> vc;
@@ -49,6 +50,8 @@ void solve()
         }
 
         cout << " " << endl;
+        
+        test+=1;
 
 }
 
