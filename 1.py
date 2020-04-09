@@ -1,4 +1,4 @@
-//I am using logic of set in row as well as columns if length is not N then increment.
+#I am using logic of set in row as well as columns if length is not N then increment.
 
 import numpy as np
 l=[]
