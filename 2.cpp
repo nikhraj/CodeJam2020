@@ -1,3 +1,5 @@
+//This is cpp solution of 2nd problem.
+
 #include <bits/stdc++.h>
 using namespace std;
 void solve()
