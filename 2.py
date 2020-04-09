@@ -1,4 +1,4 @@
-//This one is my python solution done on practice mode
+#This one is my python solution done on practice mode
 n = int(input())
 for j in range(0,n):
     temp=''
